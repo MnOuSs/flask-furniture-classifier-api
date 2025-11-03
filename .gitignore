@@ -1,0 +1,12 @@
+# Ignore IDE/editor settings
+.vscode/
+__pycache__/
+*.pyc
+
+# Ignore dataset folders
+*.csv
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
